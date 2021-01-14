@@ -40,3 +40,7 @@ In the dialogue, enter **5000** for _Port_ and **localhost:5000** for _IP addres
 Ensure **Enable port forwarding** is checked.
 
 Now, on your Quest, enter **http://localhost:5000** into the browser and see the nice things you have developed.
+
+#### Live Reloading
+To enable live reloading the development server on the Quest, you need to forward port **35729** as well.
+
